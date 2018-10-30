@@ -253,6 +253,11 @@ section.events .feature-item h3 {
   font-size: 30px;
 }
 
+section.testimonals {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
 section.testimonals h2 {
   color: #2ED188;
 }
@@ -316,7 +321,8 @@ section.contactus textarea {
 
 section.event-carousel {
   background-color: #F9FAFC;
-  position: relative;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section.event-carousel img {
